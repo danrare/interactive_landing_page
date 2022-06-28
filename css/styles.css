@@ -28,6 +28,7 @@ body{
     align-items: center;
     background-color:var(--body-bg);
     padding:0 1.5em;
+    font-family: 'Overpass', sans-serif
 }
 
 section{
